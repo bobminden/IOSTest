@@ -18,6 +18,7 @@
 		B6B9A9E816BEB76C00DA2BDD /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B6B9A9E716BEB76C00DA2BDD /* Default-568h@2x.png */; };
 		B6B9A9EB16BEB76C00DA2BDD /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6B9A9E916BEB76C00DA2BDD /* MainStoryboard.storyboard */; };
 		B6B9A9EE16BEB76C00DA2BDD /* GittestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6B9A9ED16BEB76C00DA2BDD /* GittestViewController.m */; };
+		B6B9A9F616BEB89500DA2BDD /* GittestLabelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6B9A9F516BEB89500DA2BDD /* GittestLabelViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		B6B9A9EA16BEB76C00DA2BDD /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		B6B9A9EC16BEB76C00DA2BDD /* GittestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GittestViewController.h; sourceTree = "<group>"; };
 		B6B9A9ED16BEB76C00DA2BDD /* GittestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GittestViewController.m; sourceTree = "<group>"; };
+		B6B9A9F416BEB89500DA2BDD /* GittestLabelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GittestLabelViewController.h; sourceTree = "<group>"; };
+		B6B9A9F516BEB89500DA2BDD /* GittestLabelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GittestLabelViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				B6B9A9E016BEB76C00DA2BDD /* GittestAppDelegate.h */,
 				B6B9A9E116BEB76C00DA2BDD /* GittestAppDelegate.m */,
 				B6B9A9E916BEB76C00DA2BDD /* MainStoryboard.storyboard */,
+				B6B9A9F416BEB89500DA2BDD /* GittestLabelViewController.h */,
+				B6B9A9F516BEB89500DA2BDD /* GittestLabelViewController.m */,
 				B6B9A9EC16BEB76C00DA2BDD /* GittestViewController.h */,
 				B6B9A9ED16BEB76C00DA2BDD /* GittestViewController.m */,
 				B6B9A9D816BEB76C00DA2BDD /* Supporting Files */,
@@ -177,6 +182,7 @@
 				B6B9A9DE16BEB76C00DA2BDD /* main.m in Sources */,
 				B6B9A9E216BEB76C00DA2BDD /* GittestAppDelegate.m in Sources */,
 				B6B9A9EE16BEB76C00DA2BDD /* GittestViewController.m in Sources */,
+				B6B9A9F616BEB89500DA2BDD /* GittestLabelViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
