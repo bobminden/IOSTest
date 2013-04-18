@@ -30,7 +30,7 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-    // Adding coment here
+    // Adding coment in clone here
 }
 
 @end
