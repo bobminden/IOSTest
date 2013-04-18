@@ -35,10 +35,22 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fiT-AU-6ha">
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="More">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="sGW-CC-x7u" firstAttribute="centerX" secondItem="caA-xf-dlK" secondAttribute="centerX" type="default" id="3cb-5Z-Xgc"/>
+                            <constraint firstItem="fiT-AU-6ha" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" type="default" id="40t-b7-cUT"/>
+                            <constraint firstAttribute="bottom" secondItem="fiT-AU-6ha" secondAttribute="bottom" constant="144" id="Nx4-Mv-uN4"/>
                             <constraint firstItem="sGW-CC-x7u" firstAttribute="top" secondItem="3" secondAttribute="top" constant="245" id="UVL-Hi-Hnj"/>
                             <constraint firstItem="caA-xf-dlK" firstAttribute="top" secondItem="3" secondAttribute="top" constant="158" id="VOA-rE-jlH"/>
                             <constraint firstItem="caA-xf-dlK" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="112" id="Vfb-Cu-kkA"/>
