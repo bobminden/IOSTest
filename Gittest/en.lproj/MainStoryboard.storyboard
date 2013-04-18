@@ -50,10 +50,10 @@
                         <constraints>
                             <constraint firstItem="sGW-CC-x7u" firstAttribute="centerX" secondItem="caA-xf-dlK" secondAttribute="centerX" type="default" id="3cb-5Z-Xgc"/>
                             <constraint firstItem="fiT-AU-6ha" firstAttribute="centerX" secondItem="3" secondAttribute="centerX" type="default" id="40t-b7-cUT"/>
-                            <constraint firstAttribute="bottom" secondItem="fiT-AU-6ha" secondAttribute="bottom" constant="144" id="Nx4-Mv-uN4"/>
                             <constraint firstItem="sGW-CC-x7u" firstAttribute="top" secondItem="3" secondAttribute="top" constant="245" id="UVL-Hi-Hnj"/>
                             <constraint firstItem="caA-xf-dlK" firstAttribute="top" secondItem="3" secondAttribute="top" constant="158" id="VOA-rE-jlH"/>
                             <constraint firstItem="caA-xf-dlK" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="112" id="Vfb-Cu-kkA"/>
+                            <constraint firstAttribute="bottom" secondItem="fiT-AU-6ha" secondAttribute="bottom" constant="91" id="WaI-2r-NaK"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="yh8-8Z-DMm"/>
